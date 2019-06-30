@@ -12,7 +12,7 @@ The motivation behind this project is to see if we can give the same functionali
 
 #### Common
 - [ ] /categories
-- [ ] /cities
+- [x] /cities
 - [ ] /collections
 - [ ] /cuisines
 - [ ] /establishments
